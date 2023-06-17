@@ -1,0 +1,31 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Info {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    background-color: black;
+    color: #f2f2f2;
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  
